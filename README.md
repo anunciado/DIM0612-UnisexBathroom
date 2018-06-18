@@ -6,6 +6,11 @@ A unisex bathroom problem solution using semaphore.
 
 The Unisex Bathroom problem consists of a bathroom with n stalls and some number of males and females that share the bathroom.  A male or female may be using a stall in the bathroom, waiting to use the bathroom, or doing something else. 
 
+### Prerequisites
+
+You will need to install the modules below to run the program: 
+* [java 8.0 or greater](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
 ### Running
 
 There are two ways to run this software:
